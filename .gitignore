@@ -1,0 +1,8 @@
+system_ext/priv-app/Settings/Settings.apk
+vendor/lib64/camera/components/com.qti.node.mialgocontrol.so
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+system/system/app/MiuiVideoPlayer/MiuiVideoPlayer.apk
+system/system/apex/com.android.vndk.current.apex
+modem.img
